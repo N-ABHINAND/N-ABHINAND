@@ -4,7 +4,7 @@
 [![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:16A34A&height=200&text=ABHINAND%20N&fontSize=48&fontColor=FFFFFF&fontAlignY=35)](https://github.com/N-Abhinand)
 
 <!-- 🖤💚 Typing Intro (Clean + Professional) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=16A34A&width=600&lines=CSE+(AI+%26+ML)+Student;AI+%7C+ML+%7C+IoT+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Code+💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=16A34A&width=600&lines=CSE+(AI+%26+ML)+Student;AI+%7C+ML+%7C+Enthusiast;Building+Intelligent+Systems;Turning+Ideas+Into+Code+💻" />
 
 <!-- 🖤💚 Profile Badges -->
 <p align="center">

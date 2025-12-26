@@ -34,78 +34,78 @@ class Abhinand:
 
 ---
 
-# 🔴 Areas of Passion  
+# 🟢 Areas of Passion  
 <div align="left">
 
-- 🚩 **Machine Learning & Artificial Intelligence**  
+- 🏴 **Machine Learning & Artificial Intelligence**  
   Crafting intelligent systems that learn and adapt.
 
-- 🚩 **IoT-Based Smart Solutions**  
+- 🏴 **IoT-Based Smart Solutions**  
   Designing connected systems using sensors and microcontrollers.
 
-- 🚩 **Problem Solving Through Code**  
+- 🏴 **Problem Solving Through Code**  
   Turning complex ideas into efficient logic.
 
-- 🚩 **Smart Healthcare Automations**  
+- 🏴 **Smart Healthcare Automations**  
   Creating impactful solutions for wellbeing.
 
 </div>
 
 ---
 
-# 🔴 Currently Exploring  
+# 🟢 Currently Exploring  
 <div align="left">
 
-- 🚩 **Predictive ML Models**  
+- 🏴 **Predictive ML Models**  
   Enhancing accuracy for data-driven decisions.
 
-- 🚩 **IoT Automation Systems**  
+- 🏴 **IoT Automation Systems**  
   Integrating hardware + ML for real-time intelligence.
 
-- 🚩 **Deep Learning Techniques**  
+- 🏴 **Deep Learning Techniques**  
   Experimenting with neural networks, VAEs & image models.
 
 </div>
 
 ---
 
-# 🔴 Tech Stack  
+# 🟢 Tech Stack  
 
-### 🚩 AI / ML  
+### 🏴 AI / ML  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=16A34A)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=16A34A)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=16A34A)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=16A34A)
 
-### 🚩 Development  
+### 🏴 Development  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=16A34A)
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=16A34A)
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=16A34A)
 
-### 🚩 Cloud / Data  
+### 🏴 Cloud / Data  
 ![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=16A34A)
 ![Azure ML](https://img.shields.io/badge/Azure%20ML-000000?style=for-the-badge&logo=microsoftazure&logoColor=16A34A)
 
-### 🚩 IoT  
+### 🏴 IoT  
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=16A34A)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=16A34A)
 
 ---
 
-# 🔴 Featured Projects  
+# 🟢 Featured Projects  
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🎓 Student Grade Prediction  
-[![🔴](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Student-Grade-Prediction&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-ABHINAND/STUDENT-GRADE-PREDICTION)
+[![🟢REPO]](https://github.com/N-ABHINAND/STUDENT-GRADE-PREDICTION)
 
 </td>
 <td width="50%">
 
 ### 🫁 Pneumonia Detection  
-[![🔴](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Pneumonia-Detection&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-ABHINAND/PNEUMONIA-DETECTION-USING-DNN)
+[![🟢REPO]](https://github.com/N-ABHINAND/PNEUMONIA-DETECTION-USING-DNN)
 
 </td>
 </tr>
@@ -114,14 +114,14 @@ class Abhinand:
 <td width="50%">
 
 ### 💊 Personalized Medicine Reminder (IoT)  
-[![🔴](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Medicine-Reminder-IoT&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)]()
+[![🟢REPO]]()
 
 </td>
 
 <td width="50%">
 
 ### 🏋️ Fitness Tracker  
-[![🔴](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Fitness-Tracker&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-ABHINAND/Fitness-Website)
+[![🟢REPO]](https://github.com/N-ABHINAND/Fitness-Website)
 
 </td>
 </tr>

@@ -129,16 +129,16 @@ class Abhinand:
 
 ---
 
-# 🧩 Upcoming Projects  
+# 🟢 Upcoming Projects  
 
-- 🔄 **AI-Based Attendance System (Coming Soon)**  
-- 📊 **Power BI Student Analysis Dashboard**  
-- 🧠 **DL Model for Medical Image Classification**  
-- 🚀 **Full-Stack ML Web Application**  
+- 🚩 **AI-Based Attendance System (Coming Soon)**  
+- 🚩 **Power BI Student Analysis Dashboard**  
+- 🚩 **DL Model for Medical Image Classification**  
+- 🚩 **Full-Stack ML Web Application**  
 
 ---
 
-# 📊 GitHub Analytics  
+# 🟢 GitHub Analytics  
 
 <div align="center">
 
@@ -149,7 +149,7 @@ class Abhinand:
 </div>
 
 ---
-# 🐍 Contribution Snake  
+# 🟢 Contribution Snake  
 
 <div align="center">
   <picture>
@@ -165,7 +165,7 @@ class Abhinand:
 
 ---
 
-# 🌐 Connect With Me  
+# 🟢 Connect With Me  
 
 <div align="center">
 

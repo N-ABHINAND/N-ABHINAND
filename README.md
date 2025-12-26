@@ -93,20 +93,19 @@ class Abhinand:
 ---
 
 # 🔴 Featured Projects  
-> *(Repos coming soon — links will be updated when created)*
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🎓 Student Grade Prediction  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Student-Grade-Prediction&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-Abhinand)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Student-Grade-Prediction&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-ABHINAND/STUDENT-GRADE-PREDICTION)
 
 </td>
 <td width="50%">
 
 ### 🫁 Pneumonia Detection  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Pneumonia-Detection&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-Abhinand)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Pneumonia-Detection&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-ABHINAND/PNEUMONIA-DETECTION-USING-DNN)
 
 </td>
 </tr>
@@ -115,14 +114,14 @@ class Abhinand:
 <td width="50%">
 
 ### 💊 Personalized Medicine Reminder (IoT)  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Medicine-Reminder-IoT&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-Abhinand)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Medicine-Reminder-IoT&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)]()
 
 </td>
 
 <td width="50%">
 
 ### 🏋️ Fitness Tracker  
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Fitness-Tracker&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-Abhinand)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=N-Abhinand&repo=Fitness-Tracker&theme=react&bg_color=000000&title_color=16A34A&text_color=FFFFFF&hide_border=true)](https://github.com/N-ABHINAND/Fitness-Website)
 
 </td>
 </tr>

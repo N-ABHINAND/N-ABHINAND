@@ -99,13 +99,13 @@ class Abhinand:
 <td width="50%">
 
 ### 🎓 Student Grade Prediction  
-[![🟢REPO]](https://github.com/N-ABHINAND/STUDENT-GRADE-PREDICTION)
+[!🟢REPO](https://github.com/N-ABHINAND/STUDENT-GRADE-PREDICTION)
 
 </td>
 <td width="50%">
 
 ### 🫁 Pneumonia Detection  
-[![🟢REPO]](https://github.com/N-ABHINAND/PNEUMONIA-DETECTION-USING-DNN)
+[!🟢REPO](https://github.com/N-ABHINAND/PNEUMONIA-DETECTION-USING-DNN)
 
 </td>
 </tr>
@@ -114,14 +114,14 @@ class Abhinand:
 <td width="50%">
 
 ### 💊 Personalized Medicine Reminder (IoT)  
-[![🟢REPO]]()
+[!🟢REPO]()
 
 </td>
 
 <td width="50%">
 
 ### 🏋️ Fitness Tracker  
-[![🟢REPO]](https://github.com/N-ABHINAND/Fitness-Website)
+[!🟢REPO](https://github.com/N-ABHINAND/Fitness-Website)
 
 </td>
 </tr>

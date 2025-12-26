@@ -1,21 +1,27 @@
-name: Generate Contribution Snake
+name: Generate Contribution Snake (Green)
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Runs daily
+  workflow_dispatch:     # Allows manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Generate snake
+      - name: Generate green contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: N-Abhinand
+
+          # 🟢 GREEN SNAKE COLORS
+          color_snake: "#16A34A"
+          color_dots: "#DCFCE7,#86EFAC,#4ADE80,#16A34A,#14532D"
+
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg

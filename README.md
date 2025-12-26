@@ -169,9 +169,11 @@ class Abhinand:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhinand-n-92ba27348">
+<a href="https://www.linkedin.com/in/abhinand-n-92ba27348" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=16A34A" />
 </a>
+
+
 
 <a href="mailto:kit27.am01@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=16A34A" />

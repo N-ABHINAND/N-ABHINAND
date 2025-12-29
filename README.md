@@ -136,17 +136,18 @@ class Abhinand:
 - 🚩 **DL Model for Medical Image Classification**  
 - 🚩 **Full-Stack ML Web Application**  
 
----
-
-# 🟢 GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=N-Abhinand&show_icons=true&theme=algolia&bg_color=000000&hide_border=true&title_color=16A34A&text_color=FFFFFF" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=N-ABHINAND&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=N-Abhinand&theme=algolia&background=000000&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A" />
+<img width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=N-ABHINAND&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 
 </div>
+
 
 ---
 # 🟢 Contribution Snake  

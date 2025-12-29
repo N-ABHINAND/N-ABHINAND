@@ -135,16 +135,6 @@ class Abhinand:
 - 🚩 **Power BI Student Analysis Dashboard**  
 - 🚩 **DL Model for Medical Image Classification**  
 - 🚩 **Full-Stack ML Web Application**  
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-ABHINAND&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-ABHINAND&theme=dark" />
-</p>
-
 
 
 ---

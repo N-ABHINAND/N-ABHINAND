@@ -29,7 +29,7 @@ class Abhinand:
         self.goals = ["Build intelligent solutions", "Master AI systems", "Improve real-world problem solving"]
 
     def routine(self):
-        return "Learn 📘 → Code 💻 → Build ⚙️ → Repeat 🔁"
+        return "Learn  → Code  → Build  → Repeat "
 ```
 
 ---

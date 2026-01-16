@@ -17,7 +17,7 @@
 
 ---
 
-# 👨‍💻 About Me  
+# 🚩 About Me  
 
 ```python
 class Abhinand:
@@ -30,7 +30,18 @@ class Abhinand:
 
     def routine(self):
         return "Learn  → Code  → Build  → Repeat "
+
 ```
+<br/>
+
+🏴I’m **Abhinand N**, a **CSE (AI & ML) undergraduate** who enjoys building **smart, data-driven solutions** that blend **Machine Learning, Deep Learning, and IoT**. I love exploring how intelligent systems can solve **real-world problems**, especially in **healthcare, automation, and analytics**.
+
+🏴**What Sets Me Apart**  
+I believe in **learning by doing** — experimenting, improving, and refining ideas into **scalable and impactful applications**. I’m constantly upgrading my skills, exploring **emerging AI technologies**, and transforming concepts into **working solutions**.
+
+🏴**My Mindset**  
+**Think logically • Build practically • Learn continuously • Improve consistently**
+
 
 ---
 

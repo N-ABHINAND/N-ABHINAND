@@ -125,7 +125,7 @@ I believe in **learning by doing** — experimenting, improving, and refining id
 <td width="50%">
 
 ### 💊 Personalized Medicine Reminder (IoT)  
-[!🟢REPO]()
+[!🟢REPO](https://github.com/N-ABHINAND/IOT-PERSONALIZED-MEDICINE-REMAINDER)
 
 </td>
 

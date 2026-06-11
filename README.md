@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=N-Abhinand&label=Profile+Views&color=16A34A&style=flat-square" />
   <img src="https://img.shields.io/github/followers/N-Abhinand?color=16A34A&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/N-Abhinand?color=16A34A&style=flat-square" />
+  
 </p>
 
 </div>
